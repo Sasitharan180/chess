@@ -1,0 +1,10 @@
+.aa{
+    background-color: blueviolet;
+    border-radius: 0%;
+   border-color: black; 
+   position: absolute;
+}
+.bb{
+    border-style: double;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
